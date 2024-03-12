@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import style from "../FormInput/Form.module.css"
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import {Card} from "../Card/Card"
 
 export function Input(){

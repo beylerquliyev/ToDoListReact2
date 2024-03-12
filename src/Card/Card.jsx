@@ -28,7 +28,7 @@ function newDesc(d){
         setModalDesc(descp)
         setModalTitle(title)
 
-    },[])
+    },[descp,title])
 
    
 
